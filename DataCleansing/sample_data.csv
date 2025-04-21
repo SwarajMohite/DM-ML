@@ -1,1 +1,7 @@
-
+Name,Age,City,Date
+Alice,25,New York,01-01-2022
+Bob,30,Los Angeles,01-02-2022
+Charlie,35,None,01-03-2022
+alice,25,New York,01-01-2022
+Bob,30,Los Angeles,01-02-2022
+None,28,Chicago,None
