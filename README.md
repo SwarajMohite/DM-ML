@@ -1,2 +1,3 @@
-# DM-ML
-The Repository consist of all practical of Data Mining, also some new programs which i have tried 
+## DM-ML
+The Repository consist of programs - of Data Science - Machine Learning , which done by me during learning
+
