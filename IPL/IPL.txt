@@ -1,0 +1,2 @@
+I analyzed IPL2022 dataset 
+Used - Numpy, Pandas, Matplotlib, Seaborn
